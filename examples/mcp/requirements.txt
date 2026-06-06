@@ -1,0 +1,4 @@
+agentops
+mcp
+openai
+python-dotenv
